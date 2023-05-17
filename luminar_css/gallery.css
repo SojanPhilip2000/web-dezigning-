@@ -1,0 +1,46 @@
+body{
+    background-color:silver;
+}
+h1{
+    color: tomato;
+}
+div{
+    
+    text-align: center;
+    height: 200px;
+    width: 100px;
+}
+#d1{
+    background-color: brown;
+    
+    margin-left: 0px;
+    margin-top: 0px;    
+}
+#d2{
+    background-color: rgb(165, 157, 42);
+    
+    margin-left: 105px;
+    margin-top: -200px;
+}#d3{
+    background-color: rgb(108, 165, 42);
+    
+    margin-left: 210px;
+    margin-top: -200px;    
+}
+#d4{
+    background-color: rgb(56, 46, 46);
+    
+    margin-left: 315px;
+    margin-top: -200px;
+}#d5{
+    background-color: rgb(79, 42, 165);
+    
+    margin-left: 420px;
+    margin-top: -200px;    
+}
+#d6{
+    background-color: rgb(42, 165, 144);
+   
+    margin-left: 525px;
+    margin-top: -200px;
+}
